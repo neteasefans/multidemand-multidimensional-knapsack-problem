@@ -1,5 +1,5 @@
 # multidemand-multidimensional-knapsack-problem
-The five sets of 216 benchmark instances used in our draft titled with "A \reduce-solve" heuristic search for the multidemand multidimensional knapsack problem" are publicly available at https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mdmkpinfo.html). To facilitate the further research, we upload the instances here. 
+The five sets of 216 benchmark instances used in our draft titled with "A \reduce-solve" heuristic search for the multidemand multidimensional knapsack problem" are publicly available at https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mdmkpinfo.html). To facilitate the further research, we will upload the instances here. 
 
 The source code of the proposed IRTS algorithm will be made available upon the publication of the paper.
 
