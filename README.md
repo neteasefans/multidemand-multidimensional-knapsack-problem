@@ -4,11 +4,17 @@ The five sets of 216 benchmark instances used in our draft titled with "A \reduc
 The source code of the proposed IRTS algorithm will be made available upon the publication of the paper.
 
 ** Instructions to use the source code of IRTS
+
 *** To compile:
+
 q.zhou$ make
+
 q.zhou$
+
 *** To run:
+
 q.zhou$ ./main_exe ./input_file seed
+
 (where input_file is the instance name, and seed is the given random seed, such as 1, 2, ... times)
 
 Reference papers to the multidemand multidimensional knapsack problem (MDMKP):
