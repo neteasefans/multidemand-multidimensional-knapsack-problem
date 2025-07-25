@@ -5,7 +5,9 @@ The source code of the proposed IRTS algorithm will be made available upon the p
 
 Reference papers to the multidemand multidimensional knapsack problem (MDMKP):
 [1] Cappanera, P. and Trubian, M. (2005). A local-search-based heuristic for the demand-constrained multidimensional knapsack problem. INFORMS Journal on Computing, 17(1):82–98.
+
 [2] Arntzen, H., Hvattum, L. M., and Lokketangen, A. (2006). Adaptive memory search for multidemand multidimensional knapsack problems. Computers & Operations Research, 33(9):2508–2525.
+
 [3] Hvattum, L. M. and Løkketangen, A. (2007). Experiments using scatter search for the multidemand multidimensional knapsack problem. In Metaheuristics: progress in complex systems optimization, pages 3–24. Springer.
 [4] Gortázar, F., Duarte, A., Laguna, M., and Mart´ı, R. (2010). Black box scatter search for general classes of binary optimization problems. Computers & Operations Research, 37(11):1977–1986.
 [5] Wishon, C. and Villalobos, J. R. (2016). Robust efficiency measures for linear knapsack problem variants. European Journal of Operational Research, 254(2):398–409.
