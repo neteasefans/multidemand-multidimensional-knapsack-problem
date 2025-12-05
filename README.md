@@ -2,6 +2,17 @@
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper _A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem_ by Q. Zhou, M. Gao, X.J. Lai, Z.Z. Jiang and J.K. Hao. 
 
+## Cite
+Please cite the paper like this:
+
+@unpublished{Zhou2025MDMKP,
+  author = {Qing Zhou and Ming Gao and Xiangjing Lai and Zhong-Zhong Jiang and Jin-Kao Hao},
+  title  = {A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem},
+  note   = {Unpublished manuscript},
+  year   = {2025}
+}
+
+
 ## How to run the programs.
 
 ** Instructions to use the source code of PRTS
