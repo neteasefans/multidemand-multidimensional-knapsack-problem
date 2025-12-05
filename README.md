@@ -2,10 +2,6 @@
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper _A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem_ by Q. Zhou, M. Gao, X.J. Lai, Z.Z. Jiang and J.K. Hao. 
 
-The five sets of 216 benchmark instances used in our draft titled with "A heuristic approach based on Q-learning-guide problem reduction for the multidemand multidimensional knapsack problem" are publicly available at https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mdmkpinfo.html and https://github.com/samehShihabi/MKMP-instances-1000). To facilitate the further research, we  upload the instances here. 
-
-The source code of the proposed PRTS algorithm will be made available upon the publication of the paper.
-
 ## How to run the programs.
 
 ** Instructions to use the source code of PRTS
@@ -21,6 +17,17 @@ q.zhou$
 q.zhou$ ./main_exe ./input_file seed
 
 (where input_file is the instance name, and seed is the given random seed, such as 1, 2, ... times)
+
+
+## Materials
+This repository includes the following materials:
+
+--Benchmark instances used in our paper (See the file named instance_MDMKP and instance_MKP). 
+--Source codes of the proposed PRTS (See the source codes directory for the details.)   
+--Detailed computational results and parameter analysis (See the detailed results directory for the details.)   
+--Best solutions found in the experiments (See the certificate file for the details.)  
+Note: The contents and formats of the files are demonstrated in the ReadMe file of corresponding subdirectory.  
+  
 
 Reference papers to the multidemand multidimensional knapsack problem (MDMKP):
 
@@ -49,3 +56,9 @@ Reference papers to the multidemand multidimensional knapsack problem (MDMKP):
 [12] Scherer, M. E., Hill, R. R., Lunday, B. J., Cox, B. A., and White, E. D. (2024b). Verifying new instances of the multidemand multidimensional knapsack problem with instance space analysis. Computers & Operations Research, 162:106477.
 
 [13] Al-Shihabi, S. (2025). An optimization framework for solving large scale multidemand multidimensional knapsack problem instances employing a novel core identification heuristic. European Journal of Operational Research, 320(3):496–504.
+
+
+
+
+
+
