@@ -1,14 +1,14 @@
-#以下是指定编译器路径
+#以下是指定编译器路径(Here are the specified compiler paths)
 CC = /usr/bin/g++
-#以下是指定编译需要的头文件
+#以下是指定编译需要的头文件(Here are the header files required for compilation. Note that the code invokes the cplex solver)
 CFLAGS = -g -Wall -o3 -I /home/zhilu/zhouqing/cplex/cplex/include -I /home/zhilu/zhouqing/cplex/concert/include
-#以下是指定需要的库文件
+#以下是指定需要的库文件(The following are the required library files.)
 LIBS = -L /home/zhilu/zhouqing/cplex/cplex/lib/x86-64_linux/static_pic/ -lilocplex -L /home/zhilu/zhouqing/cplex/concert/lib/x86-64_linux/static_pic/ -lconcert -L /home/zhilu/zhouqing/cplex/cplex/lib/x86-64_linux/static_pic/ -lcplex -lm
-#以下是源文件
+#以下是源文件(Here are the .cpp files)
 SRCS = ./code/*.cpp
 #以下是指定目标文件 所有的.c文件变成.o文件
 OBJS = $(SRCS:.cpp=.o)
-#以下是生成可执行文件
+#以下是生成可执行文件(The executable file)
 EXECUTABLE = main_exe
 
 
