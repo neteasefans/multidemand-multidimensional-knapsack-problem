@@ -6,7 +6,7 @@ The five sets of 216 benchmark instances used in our draft titled with "A heuris
 
 The source code of the proposed PRTS algorithm will be made available upon the publication of the paper.
 
-How to run the programs:
+## How to run the programs.
 
 ** Instructions to use the source code of PRTS
 
