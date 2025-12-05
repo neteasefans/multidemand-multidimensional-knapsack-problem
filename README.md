@@ -4,14 +4,14 @@ The software and data in this repository are a snapshot of the software and data
 
 ## Cite
 Please cite the paper like this:
-
+```
 @unpublished{Zhou2025MDMKP,
   author = {Qing Zhou and Ming Gao and Xiangjing Lai and Zhong-Zhong Jiang and Jin-Kao Hao},
   title  = {A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem},
   note   = {Unpublished manuscript},
   year   = {2025}
 }
-
+```
 
 ## How to run the programs.
 
