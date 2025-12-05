@@ -28,6 +28,7 @@ q.zhou$
 q.zhou$ ./main_exe ./input_file seed
 
 (where input_file is the instance name, and seed is the given random seed, such as 1, 2, ... times)
+
 (Please note that the output of PRTS will be written to a file whose name is constructed using the instance name and random seed information)
 
 ## Materials
