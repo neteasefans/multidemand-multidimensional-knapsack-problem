@@ -1,6 +1,6 @@
 # A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem
 
-
+The software and data in this repository are a snapshot of the software and data that were used in the research reported in the paper _A heuristic approach based on Q-learning-guided problem reduction for the multidemand multidimensional knapsack problem_ by Q. Zhou, M. Gao, X.J. Lai, Z.Z. Jiang and J.K. Hao. 
 
 The five sets of 216 benchmark instances used in our draft titled with "A heuristic approach based on Q-learning-guide problem reduction for the multidemand multidimensional knapsack problem" are publicly available at https://people.brunel.ac.uk/~mastjjb/jeb/orlib/mdmkpinfo.html and https://github.com/samehShihabi/MKMP-instances-1000). To facilitate the further research, we  upload the instances here. 
 
