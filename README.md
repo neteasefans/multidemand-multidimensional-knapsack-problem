@@ -22,8 +22,10 @@ q.zhou$ ./main_exe ./input_file seed
 ## Materials
 This repository includes the following materials:
 
---Benchmark instances used in our paper (see the directory named instance_MDMKP and instance_MKP). 
+--Benchmark instances used in our paper (see the directory named instance_MDMKP and instance_MKP).
+
 --Source codes of the proposed PRTS (see the directory named source_code for the details.)   
+
 --makefile which is used to compile the source code
  
 
