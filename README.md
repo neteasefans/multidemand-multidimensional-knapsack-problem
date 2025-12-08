@@ -40,6 +40,8 @@ This repository includes the following materials:
 
 --Source codes of the proposed PRTS (see the directory named source_code for the details.)   
 
+--Best solutions found by PRTS (see the directory named solutions)
+
 --makefile which is used to compile the source code
  
 
